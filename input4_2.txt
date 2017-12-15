@@ -1,0 +1,3 @@
+S->iEtST|a
+T->eS|1
+E->b
